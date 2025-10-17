@@ -10,7 +10,8 @@ print(text) #this is a nice day
 print(a) #his
 
 
-concer
+#concatenate
+
 txt = "hello world"
 txt2 = "how are you"
 
