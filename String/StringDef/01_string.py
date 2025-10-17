@@ -8,3 +8,10 @@ a = text[-1] #output = y
 
 print(text) #this is a nice day
 print(a) #his
+
+
+concer
+txt = "hello world"
+txt2 = "how are you"
+
+print(txt + " " + txt2) #hello world how are you
